@@ -1,0 +1,14 @@
+Instrukcja krok po kroku:
+
+1. Wejdź na GitHub i zaloguj się.
+2. Stwórz nowe repozytorium, np. 'taxi-zarobki', publiczne.
+3. Wgraj pliki:
+   - index.html
+   - manifest.json
+4. Włącz GitHub Pages:
+   - Settings -> Pages -> Source -> Branch: main, folder: root -> Save
+5. Poczekaj chwilę, GitHub poda link np.:
+   https://TwojaNazwaGithub.github.io/taxi-zarobki/
+6. Otwórz link w Safari na iPhonie.
+7. Kliknij Udostępnij -> Dodaj do ekranu głównego.
+8. Gotowe! Aplikacja Taxi działa offline, zapisuje dane i wygląda jak normalna apka.
